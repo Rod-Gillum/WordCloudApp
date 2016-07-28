@@ -1,0 +1,63 @@
+﻿Rodney A. Gillum
+850 Ryan St. Baltimore, MD. 21230
+(443) 668-4001
+rod.gillum@gmail.com 
+
+
+SUMMARY
+
+I am a full stack web developer who has gained almost 4 years of development experience, mostly in the Microsoft .Net stack, after a successful career in telecommunications. My development experience has been in an agile shop implementing scrum practices. I have a lot of successful customer facing experience. In my career, I have successfully led several teams to consistently meet deadlines and come in under budget. I am seeking full time employment, with room for growth and opportunity for personal development.
+
+
+TECHNICAL EXPERIENCE
+Languages: C#, SQL, JavaScript (JQuery, AngularJS, KnockoutJS, NodeJS), AJAX, JSON, XML, HTML5, CSS3, Razor, LINQ, Regex, Java.
+Operating System / Environments / IDE: AWS Cloud, Windows, SSMS, Microsoft ASP.NET MVC, Entity Framework, Visual Studio 2010, 2102, 2013 & 2015, Visual Studio Code, Microsoft Dynamics CRM, Android Studio, NetBeans, Elgg 1.7, Eclipse, Jetty, Brackets, Spring 3.0 Framework.
+Tools / Persistence / Testing Frameworks / Utilities: N-Unit, JMeter, J-Unit, Hibernate, SeleniumIDE, Maven, Firebug, Tortoise SVN, Selenium, DevExpress, Express, NPM, Git, Bash, Putty.
+
+
+RELATED WORK EXPERIENCE
+Developer 3, Catalyst DevWorks (formally Catalyst I.T. Services), 
+October 2012 to July 2016. Projects include:
+
+Air Methods DPL - My team created a MVC4 widget creation and reporting application;
+	I created and implemented data model for SQL Server 2008, optimized for reporting.
+	I implemented DevExpress reporting tools.
+	I built mobile first (bootstrap) web UI to match customer specifications. 
+	I built an Entity Framework 6 service layer.
+
+Hagerty Insurance (Nationwide) - I successfully redesigned an existing XML report generation application resulting in my company becoming a Nationwide preferred vendor;
+	I updated SQL stored procedures to redefine custom objects.
+	I modified XML object definitions.
+
+FutureCare - I completed a SQL Server data reporting migration;
+	I designed and implemented custom SSIS workflows.
+	I updated existing SSRS reports for the new data structure and technology.
+
+Pegged Software - My team maintained web applications designed to manage and screen applicants using big data analysis;
+	I refactored the existing code base to increase performance and reduce database calls.
+	I maintained and debugged .Net MVC 3 & 4 applications using JIRA backlog.
+	I added custom stored procedures using SSMS.
+
+CRM - I was Catalyst’s CRM administrator implementing MS Dynamics CRM 2011;
+	I customized C# objects to fit company model.
+	I added functionality and customized UI through new JavaScript files.
+	I managed groups, users, and roles to integrate the needs of the all the business departments. 
+
+Chimes - I maintained and expanded social networking site built on the Elgg 1.7 framework;
+	I added features using PHP plugins.
+	I managed customizations and configurations.
+	I added a development plan and wrote documentation.
+
+
+
+PREVIOUS WORK EXPERIENCE
+Technician, Vision Technologies. 
+October 2009 to November 2011.
+
+Multi Media Services Technician, Verizon Connected Solutions. 
+November 1998 to August 2009.
+
+
+
+Personal and professional references are available on demand.
+

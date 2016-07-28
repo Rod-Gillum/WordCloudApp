@@ -1,0 +1,7 @@
+c:\users\rodgi\onedrive\documents\visual studio 2015\Projects\WordCloudApp\WordCloudAppTests\bin\Debug\WordCloudAppTests.dll
+c:\users\rodgi\onedrive\documents\visual studio 2015\Projects\WordCloudApp\WordCloudAppTests\bin\Debug\WordCloudAppTests.pdb
+c:\users\rodgi\onedrive\documents\visual studio 2015\Projects\WordCloudApp\WordCloudAppTests\bin\Debug\WordCloudApp.exe
+c:\users\rodgi\onedrive\documents\visual studio 2015\Projects\WordCloudApp\WordCloudAppTests\bin\Debug\WordCloudApp.pdb
+c:\users\rodgi\onedrive\documents\visual studio 2015\Projects\WordCloudApp\WordCloudAppTests\obj\Debug\WordCloudAppTests.csprojResolveAssemblyReference.cache
+c:\users\rodgi\onedrive\documents\visual studio 2015\Projects\WordCloudApp\WordCloudAppTests\obj\Debug\WordCloudAppTests.dll
+c:\users\rodgi\onedrive\documents\visual studio 2015\Projects\WordCloudApp\WordCloudAppTests\obj\Debug\WordCloudAppTests.pdb
